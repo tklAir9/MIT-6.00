@@ -1,12 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 16 13:42:31 2018
+##Created by Uzair
+##Objective of this code is to store and return someone's name
 
-@author: Uzair Hasan ☺
-"""
-import math
+lastName = input('Enter your last name: \n**') ##Prompt and store last name
+firstName = input('Enter your first name:\n**' ) ##Prompt and store first name
+print(firstName, '\n', lastName) ##Print firstName and lastName
 
-x = int(input('Enter number x: '))
-y = int(input('Enter number y: '))
-print('x**y= ', x**y)
-print('log(x) = ', int(math.log(x,2)))
+##Any questions, feel free to email me and ask!
+##uzairhasan12@hotmail.com
