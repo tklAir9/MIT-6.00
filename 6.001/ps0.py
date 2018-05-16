@@ -3,7 +3,6 @@
 # Collaborators: None
 # Date & Time: May 16, 2018, 4:29 - 4:34
 
-##Created by Uzair
 ##Objective of this code is to store and return someone's name
 
 lastName = input('Enter your last name: \n**') #Prompt and store last name
