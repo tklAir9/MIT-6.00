@@ -6,9 +6,7 @@ Created on Wed May 16 13:42:31 2018
 """
 import math
 
-xString = input('Enter number x:')
-yString= input('Enter number y: ')
-x=int(xString)
-y=int(yString)
+x = int(input('Enter number x: '))
+y = int(input('Enter number y: '))
 print('x**y= ', x**y)
 print('log(x) = ', int(math.log(x,2)))
