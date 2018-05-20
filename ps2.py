@@ -1,7 +1,7 @@
 # Problem Set 2
 # Name: Uzair Hasan
 # Collaborators: None
-# Date & Time: May 20, 2018, 9:26am - 9:36am
+# Date & Time: May 20, 2018, 9:26am - 9:40am
 
 ##Objective of this code is figure out if with the equation 6a + 9b + 20c can you get an answer for numbers 50+
 
