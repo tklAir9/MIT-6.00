@@ -26,6 +26,7 @@ for x in range(50,56):
     dioph(x)
     
 """  
+
 Since we can find 5 numbers in a row after 50, we know that we can find any
 number >50. This is because it is able to fill the +1 gap 5 times, which means moving
 forward, it is impossible not to find a combination for a number >50
