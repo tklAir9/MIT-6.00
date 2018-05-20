@@ -19,5 +19,6 @@ while (place!=n+1 and place-1!=n+1): #keep checking until we make it 1 after the
         total += log(place)
         place +=2 #increment place by 2 (skipping even numbers)
 print(n/total) #print the ratio
+
 ##Any questions, feel free to email me and ask!
 ##uzairhasan12@hotmail.com
